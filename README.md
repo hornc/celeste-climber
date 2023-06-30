@@ -10,14 +10,14 @@ Mainly sprite and palette modifications.
 * Celeste title screen (in the Ice Climber font)
 * 1 Player / 2 Player -> Madeline / Badeline
 * Lives indicator -> Crystal hearts
-* Bird colour change (red -> blue)
+* ~Bird colour change (red -> blue)~
 * Ice hammer cursor -> Crystal heart on main menu
 * Madeline sprites and palette DONE!!
+* Badeline palette, switch Topis too
+* Change bonus level clouds to palette 2
 
 ## Known Issues / TODOs
 
 * Some Madeline sprites aren't perfect, some need adjustment (for later)
-* Topi palette needs switching (currently same as P1)
-* Bonus level clouds palette needs switching (currently same as P1)
-* Badeline palette not done (requires 2 player palette switching logic to be modified)
 * Only first level fruit is strawberries
+* Character Bonus success animation not converted
