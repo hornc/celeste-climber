@@ -2,14 +2,19 @@
 
 A [Celeste](https://www.celestegame.com/) themed ROM hack for the NES game [Ice Climber](https://www.romhacking.net/games/844/) (1984).
 
+<img alt="ROM hack title screen" src="/img/titlescreen.png" width=50%>
+
 Mainly sprite and palette modifications.
+
+<img alt="ROM hack bonus stage" src="/img/bonusstage.png" width=33%>
+<img alt="ROM hack 2 player mode" src="/img/2player.png" width=33%>
 
 ## Features 
 * Celeste title screen (in the Ice Climber font)
-* 1 Player / 2 Player -> Madeline / Badeline
-* Lives indicator -> Crystal hearts
-* Bird (Nitpicker) colour change (red -> blue)
-* Ice hammer cursor -> Crystal heart on main menu
+* 1 Player / 2 Player →  Madeline / Badeline
+* Lives indicator →  Crystal hearts
+* Bird (Nitpicker) colour change (red →  blue)
+* Ice hammer cursor →  Crystal heart on main menu
 * Madeline sprites and palette **DONE!!**
 * Badeline palette, separate bird and P2 palettes
 * Change bonus level clouds to palette 2
