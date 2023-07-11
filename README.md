@@ -6,8 +6,9 @@ A [Celeste](https://www.celestegame.com/) themed ROM hack for the NES game [Ice 
 
 Mainly sprite and palette modifications.
 
-<img alt="ROM hack bonus stage" src="/img/bonusstage.png" width=33%>
-<img alt="ROM hack 2 player mode" src="/img/2player.png" width=33%>
+<img alt="ROM hack bonus stage" src="/img/bonusstage.png" width=50%>
+<img alt="ROM hack 2 player mode" src="/img/2player.png" width=50%>
+<img alt="ROM hack summary screen" src="/img/summary.png" width=50%>
 
 ## Features 
 * Celeste title screen (in the Ice Climber font)
@@ -17,7 +18,7 @@ Mainly sprite and palette modifications.
 * Ice hammer cursor →  Crystal heart on main menu
 * Madeline sprites and palette **DONE!!**
 * Badeline palette, separate bird and P2 palettes
-* Change bonus level clouds to palette 2
+* Change bonus level clouds to palette 2 (orange/white)
 
 ## Known Issues / TODOs
 * Some Madeline sprites aren't perfect, some need adjustment (for later)
