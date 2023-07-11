@@ -24,6 +24,7 @@ Mainly sprite and palette modifications.
 * Some Madeline sprites aren't perfect, some need adjustment (for later)
 * Only first level fruit is strawberries
 * Character bonus success animation not converted
+* Convert polar bear character into Granny...
 
 ## Credits
 * Ubvoiu: pixel art, play-testing, insight.
